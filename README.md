@@ -44,7 +44,7 @@ Registration currently provides information and an email link only. When the off
 
 The organiser wording follows the user’s brief. The current conference contact details are carried over from the official University of Malta website; verify they remain appropriate for 2027. The original 2026 programme and general-information pages could not be retrieved through the research tool, so these sections contain new introductory text and clearly marked 2027 announcements.
 
-Institutional organisers are identified by text links. Official University of Malta and Human Rights Directorate logo files were not supplied and have not been recreated. Add approved files if required by the organisers. The supplied Astarte image is unchanged.
+The supplied University of Malta department, Human Rights Directorate and Astarte logos appear at the top of every page, above the conference title and navigation. Logos retain their original artwork, colours and proportions. The layout stacks on smaller screens.
 
 ## Brand colours
 
@@ -64,3 +64,8 @@ Sampled from the supplied Astarte image: blue `#0080A5`, terracotta `#D15421`, p
 - https://identita.gov.mt/central-visa-unit-main-page/
 
 Journal description and branding supplied by the user. The reference pages describe the 2026 conference; they are not confirmations of 2027 event details.
+
+
+## Logo update — 16 October 2026
+
+This version was prepared from the current GitHub repository and adds the three supplied logos to the top of all ten pages. Upload the HTML files and the entire `assets` folder into your existing repository root using **Add file → Upload files**, then **Commit changes**. Do not upload the ZIP itself or place the files inside a new outer folder. GitHub will replace matching files. The top logos link to their respective official websites.
