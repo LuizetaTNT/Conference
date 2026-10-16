@@ -38,11 +38,11 @@ The shared header, footer and conference essentials are repeated in each HTML pa
 
 ## Content awaiting confirmation
 
-Dates, venue, the 2027 call for contributions and themes, programme, speakers, registration form, fees, deadlines, cancellation terms and hotel arrangements remain explicitly unconfirmed. No 2026 dates, prices or speaker names have been represented as 2027 information. The homepage discussion areas are clearly marked as the conference’s established focus, pending the final 2027 themes.
+Venue, the 2027 call for contributions and themes, programme, speakers, registration form, fees, deadlines, cancellation terms and hotel arrangements remain explicitly unconfirmed. No 2026 dates, prices or speaker names have been represented as 2027 information. The homepage discussion areas are clearly marked as the conference’s established focus, pending the final 2027 themes.
 
 Registration currently provides information and an email link only. When the official form is available, add its real URL to `registration.html`. Payments and registrations are not collected by this static website.
 
-The organiser wording follows the user’s brief. The current conference contact details are carried over from the official University of Malta website; verify they remain appropriate for 2027. The original 2026 programme and general-information pages could not be retrieved through the research tool, so these sections contain new introductory text and clearly marked 2027 announcements.
+The organiser wording follows the user’s brief. Contact details have been updated as instructed: genderstudies.fsw@um.edu.mt and +356 2340 3956. The original 2026 programme and general-information pages could not be retrieved through the research tool, so these sections contain new introductory text and clearly marked 2027 announcements.
 
 The supplied University of Malta department, Human Rights Directorate and Astarte logos appear at the top of every page, above the conference title and navigation. Logos retain their original artwork, colours and proportions. The layout stacks on smaller screens.
 
@@ -69,3 +69,18 @@ Journal description and branding supplied by the user. The reference pages descr
 ## Logo update — 16 October 2026
 
 This version was prepared from the current GitHub repository and adds the three supplied logos to the top of all ten pages. Upload the HTML files and the entire `assets` folder into your existing repository root using **Add file → Upload files**, then **Commit changes**. Do not upload the ZIP itself or place the files inside a new outer folder. GitHub will replace matching files. The top logos link to their respective official websites.
+
+
+## Contact update — 16 October 2026
+
+All website contact details now point to the Department of Gender and Sexualities: genderstudies.fsw@um.edu.mt and +356 2340 3956. This includes assistance panels, footer contacts, registration enquiries, accessibility and support, visa documentation, logistics and general information. Email and phone links use the same details. Upload these HTML files to the existing repository root and commit changes. The three top logos are retained.
+
+
+## Conference dates confirmed
+
+22–23 April 2027. Confirmed dates appear across all ten pages. Venue remains to be confirmed. All three top logos and the latest departmental contact details are retained. Upload all HTML files and the assets folder to the existing repository root and commit changes.
+
+
+## Header update
+
+The top logo strip displays logos only, without organiser/journal labels. The conference monogram is GS2 on every page. Dates, departmental contacts and footer organiser information are retained.
